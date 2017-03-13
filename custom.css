@@ -1,0 +1,27 @@
+body {
+	padding-top: 50px;
+}
+.pic-text {
+	padding-top: 20px; padding-bottom: 20px;
+}
+.pic-text img {
+	width: 100%; height: 100%;
+}
+.wifi {
+	font-weight: bold;
+}
+.content-block {
+	overflow: hidden; padding-bottom: 30px; position: relative;
+}
+.content-block-title {
+	padding-bottom: 3px; border-bottom-color: rgb(140, 140, 140); border-bottom-width: thin; border-bottom-style: solid;
+}
+.content-block p {
+	font-family: arial, sans-serif; font-size: 110%;
+}
+.content-block-definition {
+	font-weight: bold;
+}
+.link-table thead {
+	font-size: 115%; font-weight: bold;
+}
